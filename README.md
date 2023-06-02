@@ -6,4 +6,4 @@ Em Java e outras linguagens OO, costuma-se definir, para cada entidade, uma inte
 
 Por exemplo:
 
-![Diagrama DAO para Java](./ "Diagrama DAO para Java")
+![Diagrama DAO para Java](./diagramaDAO.png "Diagrama DAO para Java")
